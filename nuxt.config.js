@@ -10,7 +10,7 @@ export default {
   head: {
     title: 'ra-yasdjanur',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'id'
     },
     meta: [
       { charset: 'utf-8' },
