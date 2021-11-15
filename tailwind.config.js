@@ -6,9 +6,21 @@ module.exports = {
     './plugins/**/*.{js,ts}',
     './nuxt.config.{js,ts}'
   ],
+  mode: 'jit',
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {}
+    fontFamily: {
+      sans: ['Lato', 'sans-serif']
+    },
+    extend: {
+      colors: {
+        'brand-primary': '#F64E60',
+        'brand-background': '#F6FAFC'
+      },
+      transitionProperty: {
+        'max-height': 'max-height'
+      }
+    }
   },
   variants: {
     extend: {}
