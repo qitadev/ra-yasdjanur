@@ -1,8 +1,9 @@
 <template>
-  <div class="bg-brand-background">
-    <LayoutNavbar class="fixed inset-x-4 top-4" />
-    <div class="pt-[96px]">
+  <div class="bg-brand-background antialiased flex flex-col min-h-screen">
+    <LayoutNavbar class="fixed inset-x-5 top-4" />
+    <main class="pt-[96px] flex-1">
       <Nuxt />
-    </div>
+    </main>
+    <LayoutFooter />
   </div>
 </template>
