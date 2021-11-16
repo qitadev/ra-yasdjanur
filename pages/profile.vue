@@ -17,9 +17,9 @@
       </h1>
       <hr class="w-20 border-2 border-yellow-600 mt-4 mb-8">
       <section id="sejarah">
-        <h3 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl text-gray-600 font-semibold">
           Sejarah singkat
-        </h3>
+        </h2>
         <p class="mt-4 font-extralight">
           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
           when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
@@ -41,17 +41,17 @@
       </h1>
       <hr class="w-20 border-2 border-yellow-600 mt-4 mb-8">
       <section id="visi">
-        <h3 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl text-gray-600 font-semibold">
           Visi
-        </h3>
+        </h2>
         <p class="mt-4 font-extralight">
           “Membentuk generasi penerus bangsa yang berkualitas secara aqidah, akhlakul kharimah, cerdas, kreatif, inovatif, mandiri dan berjiwa sosial.”
         </p>
       </section>
       <section id="misi" class="mt-8">
-        <h3 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl text-gray-600 font-semibold">
           Misi
-        </h3>
+        </h2>
         <p class="mt-4 font-extralight">
           Berdasarkan visi tersebut, maka yang akan dilakukan oleh Raudatul Atfal Yasdjanurm untuk mewujudkan visi tersebut adalah tertuang dalam Misi sebagai berikut, yaitu:
         </p>
@@ -64,9 +64,9 @@
         </ul>
       </section>
       <section id="tujuan" class="mt-8">
-        <h3 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl text-gray-600 font-semibold">
           Tujuan
-        </h3>
+        </h2>
         <ul class="list-decimal px-8 py-4">
           <li>Dapat menjadi sekolah favorit, yang dikenal masyarakat, dengan program “Character Building” & “Full Day School” nya.</li>
           <li>Mencetak generasi anak didik yang mempunyai karakter islami, yang cerdas pikir, cerdas hati, cerdas raga dan cerdas rasa.</li>
