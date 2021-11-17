@@ -16,8 +16,7 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Kami siap membentuk generasi penerus bangsa yang berkualitas secara aqidah, akhlakul kharimah, cerdas, kreatif, inovatif, mandiri dan berjiwa sosial.' },
-      { name: 'format-detection', content: 'telephone=no' },
-      { name: 'google-site-verification', content: 'HxQVztMq4UZ7ExI-JtxWpgUygnvacrPF4XlZ50SLB5Q' }
+      { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
