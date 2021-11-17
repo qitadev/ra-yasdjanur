@@ -3,7 +3,7 @@
     <LandingPageHero />
     <LandingPageProfile />
     <LandingPageProgram />
-    <LandingPageGalery />
+    <LandingPageGallery />
     <LandingPageTestimonials />
   </div>
 </template>

@@ -8,7 +8,7 @@
         <span class="text-gray-400"> > </span>
       </div>
       <nuxt-link to="#">
-        <span class="border border-brand-primary rounded-full py-1 px-3 text-brand-primary">Profil</span>
+        <span class="inline-block border border-brand-primary rounded-full py-1 px-3 text-brand-primary">Profil</span>
       </nuxt-link>
     </div>
     <article class="w-full mt-8">
@@ -17,7 +17,7 @@
       </h1>
       <hr class="w-20 border-2 border-brand-primary mt-4 mb-8">
       <section id="sejarah">
-        <h2 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl font-semibold">
           Sejarah singkat
         </h2>
         <p class="mt-4 font-extralight">
@@ -41,7 +41,7 @@
       </h1>
       <hr class="w-20 border-2 border-brand-primary mt-4 mb-8">
       <section id="visi">
-        <h2 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl font-semibold">
           Visi
         </h2>
         <p class="mt-4 font-extralight">
@@ -49,7 +49,7 @@
         </p>
       </section>
       <section id="misi" class="mt-8">
-        <h2 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl font-semibold">
           Misi
         </h2>
         <p class="mt-4 font-extralight">
@@ -64,7 +64,7 @@
         </ul>
       </section>
       <section id="tujuan" class="mt-8">
-        <h2 class="text-xl text-gray-600 font-semibold">
+        <h2 class="text-xl font-semibold">
           Tujuan
         </h2>
         <ul class="list-decimal px-8 py-4">
