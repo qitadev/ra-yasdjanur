@@ -50,6 +50,7 @@ export default {
   async fetch () {
     const photos = await this.$getSheetData(1)
     this.photos = photos
-  }
+  },
+  fetchOnServer: false
 }
 </script>
