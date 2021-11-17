@@ -1,5 +1,5 @@
 <template>
-  <section class="max-w-screen-lg m-auto px-5 py-8 flex flex-col md:flex-row md:items-center overflow-hidden">
+  <section class="max-w-screen-lg m-auto px-5 py-8 flex flex-col md:flex-row md:items-center">
     <div class="flex-1">
       <h1 class="font-bold text-4xl">
         Bersama Bentuk Generasi Penerus Bangsa Berilmu Amaliah Beramal Ilmiah
