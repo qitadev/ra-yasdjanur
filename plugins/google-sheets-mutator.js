@@ -11,7 +11,7 @@ async function getSheetData (sheetIndex) {
   const data = []
   for (let i = 0; i < sheet.data[0].rowData.length; i++) {
     const { values } = sheet.data[0].rowData[i]
-    if (values[0].formattedValue === undefined) {
+    if (!values || values[0].formattedValue === undefined) {
       break
     }
     if (i === 0) {

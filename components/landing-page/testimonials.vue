@@ -14,9 +14,9 @@
       <li v-for="testimonial in firstThreeTestimonials" :key="testimonial.id" class="bg-white p-4 rounded-lg">
         <div>
           <img
-            src="https://res.cloudinary.com/dau2gxgbw/image/upload/v1637115236/ra-yasdjanur/muhammad-ruqi-yaddin-hxLv1jqP0_o-unsplash_1_f0canh.png"
+            :src="testimonial.photo"
             :alt="testimonial.name"
-            class="w-14 h-14 inline-block rounded-full"
+            class="w-14 h-14 inline-block rounded-full object-cover"
           >
           <div class="inline-block align-middle p-3">
             <h3 class="font-bold">
