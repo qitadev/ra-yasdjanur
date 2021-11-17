@@ -20,9 +20,7 @@
         Berikut kumpulan dokumentasi foto dari keseruan pembelajaran dan kegiatan Raudhatul Athfal Yasdjanur bersama guru, siswa-siswi dan wali murid.
       </p>
       <SkeletonGallery v-if="$fetchState.pending" class="mt-8" />
-      <p v-else-if="$fetchState.error">
-        Gagal memuat data :(
-      </p>
+      <ErrorFetchData v-else-if="$fetchState.error" class="mt-8" />
       <ul v-else class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-8">
         <li v-for="photo in photos" :key="photo.id" class="relative pt-[56.25%]">
           <img :src="photo.photo" :alt="photo.title" class="absolute inset-0 w-full h-full object-cover rounded-lg">

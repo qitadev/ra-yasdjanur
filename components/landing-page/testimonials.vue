@@ -7,18 +7,16 @@
       Pendapat dari alumni dan wali siswa tentang RA Yasdjanur.
     </p>
     <SkeletonLandingPageTestimonials v-if="$fetchState.pending" class="mt-8" />
-    <p v-else-if="$fetchState.error">
-      Gagal memuat data :(
-    </p>
+    <ErrorFetchData v-else-if="$fetchState.error" class="mt-8" />
     <ul v-else class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4">
       <li v-for="testimonial in firstThreeTestimonials" :key="testimonial.id" class="bg-white p-4 rounded-lg">
-        <div>
+        <div class="flex items-center">
           <img
             :src="testimonial.photo"
             :alt="testimonial.name"
-            class="w-14 h-14 inline-block rounded-full object-cover"
+            class="w-14 h-14 rounded-full object-cover"
           >
-          <div class="inline-block align-middle p-3">
+          <div class="p-3">
             <h3 class="font-bold">
               {{ testimonial.name }}
             </h3>
