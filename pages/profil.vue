@@ -8,14 +8,14 @@
         <span class="text-gray-400"> > </span>
       </div>
       <nuxt-link to="#">
-        <span class="border border-yellow-600 rounded-full py-1 px-3 text-yellow-600">Profil</span>
+        <span class="border border-brand-primary rounded-full py-1 px-3 text-brand-primary">Profil</span>
       </nuxt-link>
     </div>
     <article class="w-full mt-8">
       <h1 class="text-4xl font-bold">
         Profil
       </h1>
-      <hr class="w-20 border-2 border-yellow-600 mt-4 mb-8">
+      <hr class="w-20 border-2 border-brand-primary mt-4 mb-8">
       <section id="sejarah">
         <h2 class="text-xl text-gray-600 font-semibold">
           Sejarah singkat
@@ -39,7 +39,7 @@
       <h1 class="text-4xl font-bold">
         Visi & Misi
       </h1>
-      <hr class="w-20 border-2 border-yellow-600 mt-4 mb-8">
+      <hr class="w-20 border-2 border-brand-primary mt-4 mb-8">
       <section id="visi">
         <h2 class="text-xl text-gray-600 font-semibold">
           Visi

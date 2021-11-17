@@ -13,22 +13,22 @@
     </div>
     <ul class="md:flex items-center overflow-hidden transition-max-height duration-300 ease-in-out" :class="isExpand ? 'max-h-80' : 'max-h-0 md:max-h-80'">
       <li>
-        <nuxt-link to="/profil" class="hover:text-red-400 block text-center m-4 font-medium">
+        <nuxt-link to="/profil" class="hover:text-brand-primary block text-center m-4 font-medium">
           Profil
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/program" class="hover:text-red-400 block text-center m-4 font-medium">
+        <nuxt-link to="/program" class="hover:text-brand-primary block text-center m-4 font-medium">
           Program
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/galeri" class="hover:text-red-400 block text-center m-4 font-medium">
+        <nuxt-link to="/galeri" class="hover:text-brand-primary block text-center m-4 font-medium">
           Galeri
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/testimoni" class="hover:text-red-400 block text-center m-4 font-medium">
+        <nuxt-link to="/testimoni" class="hover:text-brand-primary block text-center m-4 font-medium">
           Testimoni
         </nuxt-link>
       </li>
@@ -58,7 +58,7 @@ export default {
 
 <style scoped>
 a.nuxt-link-active {
-  color: #FCA5A5;
+  color: #F64E60;
 }
 a.nuxt-link-active.logo {
   color: #171717;
