@@ -6,6 +6,10 @@
     <p class="text-center">
       Pendapat dari alumni dan wali siswa tentang RA Yasdjanur.
     </p>
+    <SkeletonLandingPageTestimonials v-if="$fetchState.pending" class="mt-8" />
+    <p v-else-if="$fetchState.error">
+      Gagal memuat data :(
+    </p>
     <ul class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-4">
       <li v-for="testimonial in firstThreeTestimonials" :key="testimonial.id" class="bg-white p-4 rounded-lg">
         <div>
