@@ -1,19 +1,19 @@
 <template>
   <header class="bg-white shadow-md rounded-[36px] flex justify-center items-center flex-col md:flex-row md:justify-between z-50">
     <div class="flex items-center justify-between w-full md:w-auto">
-      <div class="flex items-center">
+      <nuxt-link to="/" class="flex items-center logo">
         <img src="~/assets/img/logo.webp" alt="Logo" class="w-16 my-2 ml-4">
         <h1 class="ml-4 font-bold text-md">
           RA Yasdjanur
         </h1>
-      </div>
+      </nuxt-link>
       <button class="md:hidden m-4" @click="handleBurgerClick">
         <IconsBurger class="h-6 w-6" />
       </button>
     </div>
     <ul class="md:flex items-center overflow-hidden transition-max-height duration-300 ease-in-out" :class="isExpand ? 'max-h-80' : 'max-h-0 md:max-h-80'">
       <li>
-        <nuxt-link to="/profile" class="hover:text-red-400 block text-center m-4 font-medium">
+        <nuxt-link to="/profil" class="hover:text-red-400 block text-center m-4 font-medium">
           Profil
         </nuxt-link>
       </li>
@@ -28,7 +28,7 @@
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/profil" class="hover:text-red-400 block text-center m-4 font-medium">
+        <nuxt-link to="/testimoni" class="hover:text-red-400 block text-center m-4 font-medium">
           Testimoni
         </nuxt-link>
       </li>
@@ -57,7 +57,10 @@ export default {
 </script>
 
 <style scoped>
-a.nuxt-link-exact-active.nuxt-link-active {
-  color: #FCA5A5
+a.nuxt-link-active {
+  color: #FCA5A5;
+}
+a.nuxt-link-active.logo {
+  color: #171717;
 }
 </style>

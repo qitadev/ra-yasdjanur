@@ -1,5 +1,5 @@
 <template>
-  <section class="max-w-5xl mx-auto p-8 lg:py-8">
+  <section class="max-w-5xl mx-auto px-5 py-8 lg:py-8">
     <div id="breadcrumbs" class="flex items-center">
       <nuxt-link to="/" class="text-gray-400">
         <span>Home</span>
@@ -12,7 +12,7 @@
       </nuxt-link>
     </div>
     <article class="w-full mt-8">
-      <h1 class="text-5xl font-bold">
+      <h1 class="text-4xl font-bold">
         Profil
       </h1>
       <hr class="w-20 border-2 border-yellow-600 mt-4 mb-8">
@@ -36,7 +36,7 @@
       </section>
     </article>
     <article class="w-full mt-8">
-      <h1 class="text-5xl font-bold">
+      <h1 class="text-4xl font-bold">
         Visi & Misi
       </h1>
       <hr class="w-20 border-2 border-yellow-600 mt-4 mb-8">
