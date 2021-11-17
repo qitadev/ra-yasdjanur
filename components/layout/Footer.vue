@@ -1,6 +1,6 @@
 <template>
-  <footer class="bg-white py-8 px-5">
-    <div class="max-w-screen-lg m-auto grid grid-cols-3 gap-8">
+  <footer class="bg-white">
+    <div class="max-w-screen-lg m-auto py-8 px-5 grid grid-cols-3 gap-8">
       <div class="col-span-3 md:col-span-2">
         <h2 class="font-bold text-lg">
           <img src="~/assets/img/logo.webp" alt="Logo" class="w-16 inline-block mr-4">

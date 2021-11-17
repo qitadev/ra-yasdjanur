@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-white shadow-md rounded-[36px] flex justify-center items-center flex-col md:flex-row md:justify-between">
+  <header class="bg-white shadow-md rounded-[36px] flex justify-center items-center flex-col md:flex-row md:justify-between z-50">
     <div class="flex items-center justify-between w-full md:w-auto">
       <div class="flex items-center">
         <img src="~/assets/img/logo.webp" alt="Logo" class="w-16 my-2 ml-4">
