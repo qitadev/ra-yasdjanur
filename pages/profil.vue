@@ -2,7 +2,7 @@
   <section class="max-w-5xl mx-auto px-5 py-8 lg:py-8">
     <div id="breadcrumbs" class="flex items-center">
       <nuxt-link to="/" class="text-gray-400">
-        <span>Home</span>
+        <span>Beranda</span>
       </nuxt-link>
       <div class="mx-4">
         <span class="text-gray-400"> > </span>
