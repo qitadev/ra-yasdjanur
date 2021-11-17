@@ -42,6 +42,7 @@ export default {
     const testimonials = await this.$getSheetData(0)
     this.testimonials = testimonials
   },
+  fetchOnServer: false,
   computed: {
     firstThreeTestimonials () {
       return this.testimonials.slice(0, 3)
