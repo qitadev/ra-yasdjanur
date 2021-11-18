@@ -19,11 +19,11 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '~/static/favicon.ico' },
-      { rel: 'apple-touch-icon', sizes: '180x180', href: '~/static/apple-touch-icon.png' },
-      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '~/static/favicon-32x32.png' },
-      { rel: 'icon', type: 'image/png', sizes: '16x16', href: '~/static/favicon-16x16.png' },
-      { rel: 'manifest', href: '~/static/site.webmanifest' },
+      { rel: 'icon', type: 'image/x-icon', href: '/ra-yasdjanur/favicon.ico' },
+      { rel: 'apple-touch-icon', sizes: '180x180', href: '/ra-yasdjanur/apple-touch-icon.png' },
+      { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/ra-yasdjanur/favicon-32x32.png' },
+      { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/ra-yasdjanur/favicon-16x16.png' },
+      { rel: 'manifest', href: '/ra-yasdjanur/site.webmanifest' },
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
       { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap' }
