@@ -7,9 +7,9 @@
       <p class="mt-4">
         Kami siap membentuk generasi penerus bangsa yang berkualitas secara aqidah, akhlakul kharimah, cerdas, kreatif, inovatif, mandiri dan berjiwa sosial.
       </p>
-      <button class="mt-4 rounded-full bg-brand-primary px-5 py-3 text-white">
+      <nuxt-link to="/program" class="inline-block text-center mt-4 rounded-full bg-brand-primary px-5 py-3 text-white">
         Baca selengkapnya
-      </button>
+      </nuxt-link>
     </div>
     <div class="max-w-md mx-auto mt-10 md:mt-0 md:ml-10 relative">
       <img src="~/assets/img/hero-1.webp" alt="Foto Hero 1" class="w-full -mr-20 z-10 relative">
