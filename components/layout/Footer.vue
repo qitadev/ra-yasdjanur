@@ -10,9 +10,9 @@
           Hubungi Kami
         </h3>
         <p class="mt-2">
-          Whatsapp: 0838 7500 5606 <br>
-          Instagram: @ryasdjanur <br>
-          Facebook: Yayasan Sitti Chadidjah Annur
+          Whatsapp: <a href="https://wa.me/6283875005606" target="_blank" rel="noopener noreferrer" class="underline">0838 7500 5606</a> <br>
+          Instagram: <a href="https://instagram.com/ryasdjanur" target="_blank" rel="noopener noreferrer" class="underline">@ryasdjanur</a> <br>
+          Facebook: <a href="https://www.facebook.com/ryasdjanur/" target="_blank" rel="noopener noreferrer" class="underline">Yayasan Sitti Chadidjah Annur</a>
         </p>
         <h3 class="mt-6 font-bold">
           Alamat
