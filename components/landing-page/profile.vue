@@ -8,7 +8,8 @@
         Profil
       </h2>
       <p class="mt-4">
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        RA YASDJANUR didirikan pada tahun 1996 dibawah naungan Yayasan Sitti Chadidjah An Nur. Tokoh yang paling berjasa dalam membidani lahirnya RA YASDJANUR adalah Bunda Sitti Chadidjah An Nur.
+        Bunda Sitti yang saat itu tercatat sebagai aktivis wanita merasa prihatin melihat banyak anak-anak usia 2-6 tahun yang berkerumun tanpa ada aktivitas pembelajaran.
       </p>
       <nuxt-link
         to="profil"

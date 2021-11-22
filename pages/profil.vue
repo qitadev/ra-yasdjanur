@@ -21,17 +21,19 @@
           Sejarah singkat
         </h2>
         <p class="mt-4 font-extralight">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-          when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
-          but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
-          and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+          RA YASDJANUR didirikan pada tahun 1996 dibawah naungan Yayasan Sitti Chadidjah An Nur. Tokoh yang paling berjasa dalam membidani lahirnya RA YASDJANUR adalah Bunda Sitti Chadidjah An Nur.
+          Bunda Sitti yang saat itu tercatat sebagai aktivis wanita merasa prihatin melihat banyak anak-anak usia 2-6 tahun yang berkerumun tanpa ada aktivitas pembelajaran. Bunda Sitti menyampaikan kegundahannya kepada dua tokoh masyarakat yakni Alm.
+          Bapak Hamzah Hamudi dan Almh. Ibu Aminah Hamzah yang kemudian disepakati untuk membuat Taman Kanak Kanak dan TPA untuk mengelola kegiatan anak agar lebih terprogram.
+          Kegiatan awal dilaksanakan di Balai RW dengan menggunakan alat permainan seadanya yang digelar bongkar pasang. Ternyata sambutan masyarakat sangat antusias.
+          Pada tahun 2005 Taman Kanak Kanak dan TPA berubah nama dengan nama RA YASDJANUR dengan diresmikan oleh Bapak Camat dan didampingi oleh 3 pendiri.
+          Sebagai kepala sekolah pertama ditunjuk Ibu Endang sebagai guru untuk peserta didik yang berjumlah 75 anak. Langkah berikutnya dilembagakan dan mengajukan perizinan ke Kemenag Kota Bogor.
+
           <br>
           <br>
-          It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-          The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here,
-          content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,
-          and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident,
-          sometimes on purpose (injected humour and the like)
+
+          Selanjutnya kami terus berbenah dan mengembangkan diri dengan mengikuti pelatihan dan belajar mandiri. Perubahan kami lakukan dari menggunakan pembelajaran klasikal ke kelompok hingga kini menerapkan model sentra.
+          Tahun 2016 kami mengubah manajemen sekolah, dan tahun 2019 kami mendapatkan akreditasi B dari BAN PAUD&PNF. Sehingga sekarang Yayasan Sitti Chadidjah An Nur menaungi satuan pendidikan Raudhatul Athfal YASDJANUR.
+          Tahun 2019 satuan RA kami terpilih menjadi “Peringkat ke-3 Peraih Madrasah Bersih dan Sehat Tingkat Kota Bogor”.
         </p>
       </section>
     </article>
